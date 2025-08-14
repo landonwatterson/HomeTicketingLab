@@ -20,28 +20,36 @@ Peppermint Dashboard Showing Only Admin User: <br/>
 <img src="https://i.imgur.com/kEfXwM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Created two more users in directory to organize into organizational units:  <br/>
-<img src="https://i.imgur.com/pTh0xP7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created myself as a new internal user:  <br/>
+<img src="https://i.imgur.com/XVj37sc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create organizational units, simulating different departments of a company: <br/>
-<img src="https://i.imgur.com/vT2Omka.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created a new ticket simulating a user's computer freezing & assigned ticket to myself: <br/>
+<img src="https://i.imgur.com/uhDja5R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Assign new users to unit (1):  <br/>
-<img src="https://i.imgur.com/m1MegBB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The ticket is now open:  <br/>
+<img src="https://i.imgur.com/zmvHyld.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Assign new users to unit (2):  <br/>
-<img src="https://i.imgur.com/m1MegBB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Logged into Peppermint as Landon, it now shows an open ticket on my dashboard:  <br/>
+<img src="https://i.imgur.com/0GfbSyh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Assign new users to unit (3):  <br/>
-<img src="https://i.imgur.com/5mkcZIU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Showing ticket details:  <br/>
+<img src="https://i.imgur.com/xV1bL81.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-New users have been created and assigned to thier corresponding organizational units.  <br/>
-
+Changed ticket status to "In Progress":  <br/>
+<img src="https://i.imgur.com/ayUhtLA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Closing ticket:  <br/>
+<img src="https://i.imgur.com/4c1Jjqw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+The ticket is now closed:  <br/>
+<img src="https://i.imgur.com/OZWpgVx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <!--
  ```diff
